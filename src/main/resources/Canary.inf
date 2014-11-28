@@ -1,0 +1,4 @@
+name=Votifier
+main-class=com.vexsoftware.votifier.Votifier
+version=maven-version-number
+author=darkdiplomat, blakeman8192, Kramer
